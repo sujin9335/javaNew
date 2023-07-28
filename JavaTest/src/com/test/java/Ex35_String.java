@@ -5,7 +5,8 @@ public class Ex35_String {
 	public static void main(String[] args) {
 		
 		/*
-		
+			
+
 			문자열
 			- 물리적으로는 참조형이지만, 약간의 값형의 성질을 가진다
 			1. 메모리의 공간은 한번 할당되면 더 이상 늘리거나 줄일 수 없다
